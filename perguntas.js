@@ -1,7 +1,7 @@
 criaCartao(
-    categoria,
-    pergunta,
-    resposta,
+    "Programação",
+    "O que é Javascript ?",
+    "O JavaScript é uma linguagem de programação",
 )
 
 criaCartao(
