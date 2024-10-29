@@ -1,35 +1,10 @@
 criaCartao(
-    "Programação",
-    "O que é Javascript ?",
-    "O JavaScript é uma linguagem de programação",
+    'Jogos',
+    'Qual o jogo com mais copias vendidas?',
+    'Minecraft'
 )
-
 criaCartao(
-    categoria,
-    pergunta,
-    resposta,
-)
-
-criaCartao(
-    categoria,
-    pergunta,
-    resposta,
-)
-
-criaCartao(
-    categoria,
-    pergunta,
-    resposta,
-)
-
-criaCartao(
-    categoria,
-    pergunta,
-    resposta,
-)
-
-criaCartao(
-    categoria,
-    pergunta,
-    resposta,
+    'Jogos',
+    'Quais jogos são conhecidos por serem dificeis e sem pause?',
+    'A serie souls'
 )
